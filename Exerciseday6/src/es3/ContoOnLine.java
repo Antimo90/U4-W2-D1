@@ -4,7 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class ContoOnLine extends ContoCorrente {
-    private static final Logger logger = LoggerFactory.getLogger(ContoOnLine.class);
+    private static Logger logger = LoggerFactory.getLogger(ContoOnLine.class);
     private double maxPrelievo;
 
     public ContoOnLine(String titolare, double saldo, double maxP) {

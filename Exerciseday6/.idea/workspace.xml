@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d01e7a4-98d7-4654-83de-20a208938ea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/logback_classic_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/logback_core_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_2_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es3/BancaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es3/ContoCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es3/ContoOnLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exerciseday6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exerciseday6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es3/ContoOnLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es3/ContoOnLine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
